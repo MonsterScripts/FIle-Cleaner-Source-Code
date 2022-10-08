@@ -27,46 +27,6 @@ cls
 color 4
 TITLE File Cleaner                                                                                          
 
-echo                        .-""""-.
-echo                       / j      \
-echo                      :.d;       ;
-echo                      $$P        :
-echo           .m._       $$         :
-echo          dSMMSSSss.__$$b.    __ :
-echo         :MMSMMSSSMMMSS$$$b  $$P ;
-echo         SMMMSMMSMMMSSS$$$$     :b
-echo        dSMMMSMMMMMMSSMM$$$b.dP SSb.
-echo       dSMMMMMMMMMMSSMMPT$$=-. /TSSSS.
-echo      :SMMMSMMMMMMMSMMP  `$b_.'  MMMMSS.
-echo      SMMMMMSMMMMMMMMM \  .'\    :SMMMSSS.
-echo     dSMSSMMMSMMMMMMMM  \/\_/; .'SSMMMMSSSm
-echo    dSMMMMSMMSMMMMMMMM    :.;'" :SSMMMMSSMM;
-echo  .MMSSSSSMSSMMMMMMMM;    :.;   MMSMMMMSMMM;
-echo dMSSMMSSSSSSSMMMMMMM;    ;.;   MMMMMMMSMMM
-echo :MMMSSSSMMMSSP^TMMMMM     ;.;   MMMMMMMMMMM
-echo MMMSMMMMSSSSP   `MMMM     ;.;   :MMMMMMMMM;
-echo "TMMMMMMMMMM      TM;    :`.:    MMMMMMMMM;
-echo   )MMMMMMM;     _/\\    :`.:    :MMMMMMMM
-echo  d$SS$$$MMMb.  |._\\\   :`.:     MMMMMMMM
-echo  T$$S$$$$$$$$$$m;O\\\\"-;`.:_.-  MMMMMMM;
-echo :$$$$$$$$$$$$$$$b_l./\\ ;`.:    mMMSSMMM;
-echo :$$$$$$$$$$$$$$$$$$$./\\;`.:  .$$MSMMMMMM
-echo  $$$$$$$$$$$$$$$$$$$$. \\`.:.$$$$SMSSSMMM;
-echo  $$$$$$$$$$$$$$$$$$$$$. \\.:$$$$$SSMMMMMMM
-echo  :$$$$$$$$$$$$$$$$$$$$$.//.:$$$$SSSSSSSMM;
-echo  :$$$$$$$$$$$$$$$$$$$$$$.`.:$$SSSSSSSMMMP
-echo   $$$$$$$$$;"^$J "^$$$$;.`.$$P  `SSSMMMM
-echo   :$$$$$$$$$       :$$$;.`.P'..   TMMM$$b
-echo   :$$$$$$$$$;      $$$$;.`/ c^'   d$$$$$S;
-echo   $$$$$S$$$$;      '^^^:_d$g:___.$$$$$$SSS
-echo   $$$$SS$$$$;            $$$$$$$$$$$$$$SSS;
-echo  :$$$SSSS$$$$            : $$$$$$$$$$$$$SSS
-echo  :$P"TSSSS$$$            ; $$$$$$$$$$$$$SSS;
-echo  j    `SSSSS$           :  :$$$$$$$$$$$$$SS$
-echo :       "^S^'           :   $$$$$$$$$$$$$S$;
-echo ;.____.-;"               "--^$$$$$$$$$$$$$P
-echo '-....-"                       ""^^T$$$$P"
-
 
 echo                                                     [+] Made By: Monster#6969
 
